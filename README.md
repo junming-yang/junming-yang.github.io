@@ -1,1 +1,1 @@
-junminigyang.github.io
+https://junminigyang.github.io/
