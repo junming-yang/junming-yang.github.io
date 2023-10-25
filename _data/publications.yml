@@ -1,22 +1,23 @@
 main:
+  - title: "Collaborative World Models: An Online-Offline Transfer RL Approach"
+    authors: Qi Wang*, <strong>Junming Yang*</strong>, Yunbo Wang, Xin Jin, Wenjun Zeng, Xiaokang Yang (*Equal Contribution)
+    conference_short: arXiv
+    conference: arXiv preprint, 2023.
+    pdf: https://arxiv.org/abs/2305.15260v1
+    image: ./assets/img/paper_img/Coworld.png
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: "Model-based Offline Policy Optimization with Adversarial Network"
+    authors: <strong>Junming Yang</strong>, Xingguo Chen, Shengyuan Wang, Bolei Zhang
+    conference_short: ECAI
+    conference: 26th European Conference on Artificial Intelligence <strong>(ECAI)</strong>, 2023.
+    pdf: https://www.researchgate.net/publication/374315955_Model-Based_Offline_Policy_Optimization_with_Adversarial_Network
+    code: https://github.com/junming-yang/moan
+    image: ./assets/img/paper_img/MOAN.png
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: "SDV: Simple Double Validation Model-based Offline Reinforcement Learning"
+    authors: Xun Wang, Haonan Chen, <strong>Junming Yang</strong>, Zhuzhong Qian, Bolei Zhang
+    conference_short: ECAI
+    conference: 26th European Conference on Artificial Intelligence <strong>(ECAI)</strong>, 2023.
+    pdf: https://www.researchgate.net/publication/374299821_SDV_Simple_Double_Validation_Model-Based_Offline_Reinforcement_Learning
+    code: https://github.com/Misakau/SDV
+    image: ./assets/img/paper_img/SDV.png
