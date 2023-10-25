@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+Currently I am an undergraduate student at Nanjing University of Posts and Telecommunications (NJUPT). In September 2023, I was admitted to study for a graduate degree in Southeast University (SEU) under the supervision of Prof. Xin Geng without entrance examination, respectively.
 
 ## Research Interests
 
