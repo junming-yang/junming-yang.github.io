@@ -11,7 +11,7 @@ main:
     conference_short: arXiv
     conference: arXiv preprint, 2023.
     pdf: https://arxiv.org/abs/2305.15260v3
-    image: ./assets/img/paper_img/CoWorld.png
+    image: ./assets/img/paper_img/Coworld.png
 
   - title: "Model-based Offline Policy Optimization with Adversarial Network"
     authors: <strong>Junming Yang</strong>, Xingguo Chen, Shengyuan Wang, Bolei Zhang
