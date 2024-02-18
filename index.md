@@ -15,5 +15,6 @@ I have wide interest on AI, especially machine learning and deep learning. For n
 {% include_relative _includes/publications.md %}
 
 ## Educations
-2020.09 - Present, Undergraduate, Nanjing University of Posts and Telecommunications, Nanjing, Jiangsu, China. 
-2017.09 - 2020.06, No.1 Middle School affiliated to Central China Normal University, Wuhan, Hubei, China.
+
+- 2020.09 - Present, Undergraduate, Nanjing University of Posts and Telecommunications, Nanjing. 
+- 2017.09 - 2020.06, No.1 Middle School affiliated to Central China Normal University, Wuhan.

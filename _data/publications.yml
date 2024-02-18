@@ -6,12 +6,12 @@ main:
     pdf: https://arxiv.org/abs/2401.02582
     image: ./assets/img/paper_img/CoCoT.png
   
-  - title: "Collaborative World Models: An Online-Offline Transfer RL Approach"
+  - title: "Making Offline RL Online: Collaborative World Models for Offline Visual Reinforcement Learning"
     authors: Qi Wang*, <strong>Junming Yang*</strong>, Yunbo Wang, Xin Jin, Wenjun Zeng, Xiaokang Yang (*Equal Contribution)
     conference_short: arXiv
     conference: arXiv preprint, 2023.
     pdf: https://arxiv.org/abs/2305.15260v3
-    image: ./assets/img/paper_img/Coworld.png
+    image: ./assets/img/paper_img/CoWorld.png
 
   - title: "Model-based Offline Policy Optimization with Adversarial Network"
     authors: <strong>Junming Yang</strong>, Xingguo Chen, Shengyuan Wang, Bolei Zhang
