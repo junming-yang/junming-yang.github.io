@@ -1,9 +1,16 @@
 main:
+  - title: "CoCoT: Contrastive Chain-of-Thought Prompting for Large Multimodal Models with Multiple Image Inputs"
+    authors: Daoan Zhang*, <strong>Junming Yang*</strong>, Hanjia Lyu*, Zijian Jin, Yuan Yao, Mingkai Chen, Jiebo Luo (*Equal Contribution)
+    conference_short: arXiv
+    conference: arXiv preprint, 2024.
+    pdf: https://arxiv.org/abs/2401.02582
+    image: ./assets/img/paper_img/CoCoT.png
+  
   - title: "Collaborative World Models: An Online-Offline Transfer RL Approach"
     authors: Qi Wang*, <strong>Junming Yang*</strong>, Yunbo Wang, Xin Jin, Wenjun Zeng, Xiaokang Yang (*Equal Contribution)
     conference_short: arXiv
     conference: arXiv preprint, 2023.
-    pdf: https://arxiv.org/abs/2305.15260v1
+    pdf: https://arxiv.org/abs/2305.15260v3
     image: ./assets/img/paper_img/Coworld.png
 
   - title: "Model-based Offline Policy Optimization with Adversarial Network"

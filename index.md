@@ -10,6 +10,10 @@ Currently I am an undergraduate student at Nanjing University of Posts and Telec
 I have wide interest on AI, especially machine learning and deep learning. For now, I'll focus on the following topics:
 
 - **Large Language Model:** model alignment, model compression
-- **Reinforcement Learning:** offline RL, model-based RL
+- **Reinforcement Learning:** offline RL, model-based RL, world model
 
 {% include_relative _includes/publications.md %}
+
+## Educations
+2020.09 - Present, Undergraduate, Nanjing University of Posts and Telecommunications, Nanjing, Jiangsu, China. 
+2017.09 - 2020.06, No.1 Middle School affiliated to Central China Normal University, Wuhan, Hubei, China.
