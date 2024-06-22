@@ -1,7 +1,7 @@
 # Basic Information 
 title: Junming Yang
-position: Undergraduate Student
-affiliation: Nanjing University of Posts and Telecommunications
+position: Graduate Student
+affiliation: Southeast University
 email: jmingyang (at) outlook.com
 
 # Search Engine Optimization (SEO)
@@ -16,7 +16,7 @@ google_scholar: https://scholar.google.com/citations?user=L6R5ExQAAAAJ
 # cv_link: assets/files/curriculum_vitae.pdf
 github_link: https://github.com/junming-yang
 # linkedin: https://www.linkedin.com/
-# twitter: https://twitter.com/
+twitter: https://twitter.com/JmyangAI
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
@@ -38,7 +38,7 @@ font: "Serif" # or "Sans Serif"
 
 # Google Analytics ID
 # Please remove this if you don't use Google Analytics
-google_analytics: G-190H6WJTH0
+google_analytics: G-CERXB3WH3C
 
 # Use this project as a remote theme for GitHub Pages
 # See the guide here: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll

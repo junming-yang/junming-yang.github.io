@@ -1,4 +1,12 @@
 main:
+  - title: "Prism: A Framework for Decoupling and Assessing the Capabilities of VLMs"
+    authors: Yuxuan Qiao, Haodong Duan, Xinyu Fang, <strong>Junming Yang</strong>, Lin Chen, Songyang Zhang, Jiaqi Wang, Dahua Lin, Kai Chen
+    conference_short: arXiv
+    conference: arXiv preprint, 2024.
+    pdf: https://arxiv.org/abs/2406.14544
+    code: https://github.com/SparksJoe/Prism
+    image: ./assets/img/paper_img/prism.png
+
   - title: "CoCoT: Contrastive Chain-of-Thought Prompting for Large Multimodal Models with Multiple Image Inputs"
     authors: Daoan Zhang*, <strong>Junming Yang*</strong>, Hanjia Lyu*, Zijian Jin, Yuan Yao, Mingkai Chen, Jiebo Luo (*Equal Contribution)
     conference_short: arXiv
