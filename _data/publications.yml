@@ -1,4 +1,12 @@
 main:
+  - title: "VLMEvalKit: An Open-Source Toolkit for Evaluating Large Multi-Modality Models"
+    authors: Haodong Duan, <strong>Junming Yang</strong>, Yuxuan Qiao, Xinyu Fang, Lin Chen, Yuan Liu, Xiaoyi Dong, Yuhang Zang, Pan Zhang, Jiaqi Wang, Dahua Lin, Kai Chen
+    conference_short: ACM MM
+    conference: ACM MM 2024 Open Source Software Competition.
+    pdf: https://arxiv.org/abs/2407.11691
+    code: https://github.com/open-compass/VLMEvalKit
+    image: ./assets/img/paper_img/VLMEvalKit.png
+
   - title: "Prism: A Framework for Decoupling and Assessing the Capabilities of VLMs"
     authors: Yuxuan Qiao, Haodong Duan, Xinyu Fang, <strong>Junming Yang</strong>, Lin Chen, Songyang Zhang, Jiaqi Wang, Dahua Lin, Kai Chen
     conference_short: arXiv
@@ -9,8 +17,8 @@ main:
 
   - title: "CoCoT: Contrastive Chain-of-Thought Prompting for Large Multimodal Models with Multiple Image Inputs"
     authors: Daoan Zhang*, <strong>Junming Yang*</strong>, Hanjia Lyu*, Zijian Jin, Yuan Yao, Mingkai Chen, Jiebo Luo (*Equal Contribution)
-    conference_short: arXiv
-    conference: arXiv preprint, 2024.
+    conference_short: ICPR
+    conference: 27th Interntional Conference on Pattern Recognition <strong>(ICPR)</strong>, 2024.
     pdf: https://arxiv.org/abs/2401.02582
     image: ./assets/img/paper_img/CoCoT.png
   
