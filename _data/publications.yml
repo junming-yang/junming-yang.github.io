@@ -5,7 +5,7 @@ main:
     conference: ACM MM 2024 Open Source Software Competition.
     pdf: https://arxiv.org/abs/2407.11691
     code: https://github.com/open-compass/VLMEvalKit
-    image: ./assets/img/paper_img/VLMEvalKit.png
+    image: ./assets/img/paper_img/VLMEvalkit.png
 
   - title: "Prism: A Framework for Decoupling and Assessing the Capabilities of VLMs"
     authors: Yuxuan Qiao, Haodong Duan, Xinyu Fang, <strong>Junming Yang</strong>, Lin Chen, Songyang Zhang, Jiaqi Wang, Dahua Lin, Kai Chen
