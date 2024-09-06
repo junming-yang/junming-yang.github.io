@@ -12,11 +12,11 @@ I have wide interest on AI, especially machine learning and deep learning. For n
 - **Large Model:** LLM, VLM, model compression, model alignment
 - **Reinforcement Learning:** world model, offline RL, model-based RL
 
-## Internship
+{% include_relative _includes/publications.md %}
+
+## Internships
 
 - 2024.04 - 2024.08, research intern at [Shanghai Artificial Intelligence Lab](https://www.shlab.org.cn), advised by Dr. [Haodong Duan](https://kennymckormick.github.io/).
-
-{% include_relative _includes/publications.md %}
 
 ## Educations
 
