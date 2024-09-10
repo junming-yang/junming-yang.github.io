@@ -16,7 +16,7 @@ I have wide interest on AI, especially machine learning and deep learning. For n
 
 ## 💻 Internships
 
-- 2024.04 - 2024.08, research intern at [Shanghai Artificial Intelligence Lab](https://www.shlab.org.cn)@OpenMMLab, advised by Dr. [Haodong Duan](https://kennymckormick.github.io/).
+- 2024.04 - 2024.08, research intern at OpenMMLab of [Shanghai Artificial Intelligence Lab](https://www.shlab.org.cn), advised by Dr. [Haodong Duan](https://kennymckormick.github.io/).
 
 ## 📖 Educations
 
