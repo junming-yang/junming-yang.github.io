@@ -14,7 +14,7 @@ I have wide interest on AI, especially machine learning and deep learning. For n
 
 ## 🔥 News
 
-- [2024.09] Two paper are accepted by NeuIPS 2024!
+- [2024.09] Two paper are accepted by NeurIPS 2024!
 
 {% include_relative _includes/publications.md %}
 
