@@ -9,8 +9,8 @@ main:
 
   - title: "Prism: A Framework for Decoupling and Assessing the Capabilities of VLMs"
     authors: Yuxuan Qiao, Haodong Duan, Xinyu Fang, <strong>Junming Yang</strong>, Lin Chen, Songyang Zhang, Jiaqi Wang, Dahua Lin, Kai Chen
-    conference_short: arXiv
-    conference: arXiv preprint, 2024.
+    conference_short: NeurIPS
+    conference: 38th Annual Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2024.
     pdf: https://arxiv.org/abs/2406.14544
     code: https://github.com/SparksJoe/Prism
     image: ./assets/img/paper_img/prism.png
@@ -24,8 +24,8 @@ main:
   
   - title: "Making Offline RL Online: Collaborative World Models for Offline Visual Reinforcement Learning"
     authors: Qi Wang*, <strong>Junming Yang*</strong>, Yunbo Wang, Xin Jin, Wenjun Zeng, Xiaokang Yang (*Equal Contribution)
-    conference_short: arXiv
-    conference: arXiv preprint, 2023.
+    conference_short: NeurIPS
+    conference: 38th Annual Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2024.
     pdf: https://arxiv.org/abs/2305.15260v3
     image: ./assets/img/paper_img/Coworld.png
 

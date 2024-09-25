@@ -12,7 +12,9 @@ I have wide interest on AI, especially machine learning and deep learning. For n
 - **Large Model:** LLM, VLM, model compression, model alignment
 - **Reinforcement Learning:** world model, offline RL, model-based RL
 
-<!-- ## 🔥 News -->
+## 🔥 News
+
+- [2024.09] Two paper are accepted by NeuIPS 2024!
 
 {% include_relative _includes/publications.md %}
 
