@@ -4,7 +4,7 @@ layout: homepage
 
 ## 👨‍🎓 About Me
 
-I am currently a first-year graduate student at [PALM](https://palm.seu.edu.cn/) lab, Department of Computer Science, [Southeast University](https://www.seu.edu.cn/) under the supervision of Prof. [Xin Geng](https://cse.seu.edu.cn/2019/0102/c23024a257021/page.psp). Previously, I received my B.Eng. degree from [Nanjing University of Posts and Telecommunications](https://www.njupt.edu.cn/) in June 2024.
+I am currently a first-year graduate student at [PALM](https://palm.seu.edu.cn/) lab, Department of Computer Science, [Southeast University](https://www.seu.edu.cn/) under the supervision of Prof. [Xin Geng](https://cse.seu.edu.cn/2019/0102/c23024a257021/page.psp) and Prof. [Ning Xu](https://palm.seu.edu.cn/xuning/). Previously, I received my B.Eng. degree from [Nanjing University of Posts and Telecommunications](https://www.njupt.edu.cn/) in June 2024.
 
 ## 📚 Research Interests
 I have wide interest on AI, especially machine learning and deep learning. For now, I'll focus on the following topics:
@@ -14,7 +14,7 @@ I have wide interest on AI, especially machine learning and deep learning. For n
 
 ## 🔥 News
 
-- [2024.09] Two paper are accepted by NeurIPS 2024!
+- **[2024.09]** Two paper are accepted by NeurIPS 2024!
 
 {% include_relative _includes/publications.md %}
 
