@@ -27,6 +27,7 @@ main:
     conference_short: NeurIPS
     conference: 38th Annual Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2024.
     pdf: https://arxiv.org/abs/2305.15260v3
+    code: https://github.com/qiwang067/CoWorld
     image: ./assets/img/paper_img/Coworld.png
 
   - title: "Model-based Offline Policy Optimization with Adversarial Network"
