@@ -1,4 +1,11 @@
 main:
+  - title: "Alignment through Meta-Weighted Online Sampling: Bridging the Gap between Data Generation and Preference Optimization"
+    authors: <strong>Junming Yang</strong>, Ning Xu, Biao Liu, Shiqi Qiao, Xin Geng
+    conference_short: Preprint
+    conference: Arxiv, 2025.
+    pdf: https://arxiv.org/abs/2509.23371
+    image: ./assets/img/paper_img/MetaAPO.png
+
   - title: "VLMEvalKit: An Open-Source Toolkit for Evaluating Large Multi-Modality Models"
     authors: Haodong Duan, <strong>Junming Yang</strong>, Yuxuan Qiao, Xinyu Fang, Lin Chen, Yuan Liu, Xiaoyi Dong, Yuhang Zang, Pan Zhang, Jiaqi Wang, Dahua Lin, Kai Chen
     conference_short: ACM MM
