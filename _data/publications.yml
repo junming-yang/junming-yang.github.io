@@ -44,11 +44,3 @@ main:
     pdf: https://www.researchgate.net/publication/374315955_Model-Based_Offline_Policy_Optimization_with_Adversarial_Network
     code: https://github.com/junming-yang/moan
     image: ./assets/img/paper_img/MOAN.png
-
-  - title: "SDV: Simple Double Validation Model-based Offline Reinforcement Learning"
-    authors: Xun Wang, Haonan Chen, <strong>Junming Yang</strong>, Zhuzhong Qian, Bolei Zhang
-    conference_short: ECAI
-    conference: 26th European Conference on Artificial Intelligence <strong>(ECAI)</strong>, 2023.
-    pdf: https://www.researchgate.net/publication/374299821_SDV_Simple_Double_Validation_Model-Based_Offline_Reinforcement_Learning
-    code: https://github.com/Misakau/SDV
-    image: ./assets/img/paper_img/SDV.png
