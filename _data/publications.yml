@@ -1,18 +1,4 @@
 main:
-  - title: "Alignment through Meta-Weighted Online Sampling: Bridging the Gap between Data Generation and Preference Optimization"
-    authors: <strong>Junming Yang</strong>, Ning Xu, Biao Liu, Shiqi Qiao, Xin Geng
-    conference_short: Preprint
-    conference: Arxiv, 2025.
-    pdf: https://arxiv.org/abs/2509.23371
-    image: ./assets/img/paper_img/MetaAPO.png
-
-  - title: "Preference Orchestrator: Prompt-Aware Multi-Objective Alignment for Large Language Models"
-    authors: Biao Liu, Ning Xu, <strong>Junming Yang</strong>, Xin Geng
-    conference_short: Preprint
-    conference: Arxiv, 2025.
-    pdf: https://arxiv.org/abs/2511.10656
-    image: ./assets/img/paper_img/PRO.png
-
   - title: "VLMEvalKit: An Open-Source Toolkit for Evaluating Large Multi-Modality Models"
     authors: Haodong Duan, <strong>Junming Yang</strong>, Yuxuan Qiao, Xinyu Fang, Lin Chen, Yuan Liu, Xiaoyi Dong, Yuhang Zang, Pan Zhang, Jiaqi Wang, Dahua Lin, Kai Chen
     conference_short: ACM MM
@@ -51,3 +37,18 @@ main:
     pdf: https://www.researchgate.net/publication/374315955_Model-Based_Offline_Policy_Optimization_with_Adversarial_Network
     code: https://github.com/junming-yang/moan
     image: ./assets/img/paper_img/MOAN.png
+
+preprint:
+  - title: "Alignment through Meta-Weighted Online Sampling: Bridging the Gap between Data Generation and Preference Optimization"
+    authors: <strong>Junming Yang</strong>, Ning Xu, Biao Liu, Shiqi Qiao, Xin Geng
+    conference_short: Preprint
+    conference: Arxiv, 2025.
+    pdf: https://arxiv.org/abs/2509.23371
+    image: ./assets/img/paper_img/MetaAPO.png
+
+  - title: "Preference Orchestrator: Prompt-Aware Multi-Objective Alignment for Large Language Models"
+    authors: Biao Liu, Ning Xu, <strong>Junming Yang</strong>, Xin Geng
+    conference_short: Preprint
+    conference: Arxiv, 2025.
+    pdf: https://arxiv.org/abs/2511.10656
+    image: ./assets/img/paper_img/PRO.png
