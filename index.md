@@ -31,4 +31,4 @@ I have wide interest on AI, especially machine learning and deep learning. For n
 
 ## 💼 Services
 
-Reviewer for Conferences (NeurIPS, ICLR, ECAI) and Journals (TNNLS).
+Reviewer for Conferences (NeurIPS, ICLR, ICML, ECAI) and Journals (TNNLS).
