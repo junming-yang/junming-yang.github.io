@@ -4,6 +4,7 @@ main:
     conference_short: ICLR
     conference: ICLR 2026.
     pdf: https://arxiv.org/abs/2509.23371
+    code: https://github.com/junming-yang/MetaAPO
     image: ./assets/img/paper_img/MetaAPO.png
   
   - title: "VLMEvalKit: An Open-Source Toolkit for Evaluating Large Multi-Modality Models"
