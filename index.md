@@ -6,18 +6,18 @@ layout: homepage
 
 I am currently a second-year graduate student at [PALM](https://palm.seu.edu.cn/) lab, Department of Computer Science, [Southeast University](https://www.seu.edu.cn/) under the supervision of Prof. [Xin Geng](https://cse.seu.edu.cn/2019/0102/c23024a257021/page.psp) and Prof. [Ning Xu](https://palm.seu.edu.cn/xuning/). Previously, I received my B.Eng. degree from [Nanjing University of Posts and Telecommunications](https://www.njupt.edu.cn/) in June 2024.
 
-<span style="color: red;">I am seeking a PhD opportunity for 2027 Fall. Please feel free to contact me if you are interested.</span>
-
-## 📚 Research Interests
+<!-- ## 📚 Research Interests
 I have wide interest on AI, especially machine learning and deep learning. For now, I'll focus on the following topics:
 
 - **Large Model:** LLM alignment, vision language model
-- **Reinforcement Learning:** world model, offline RL, model-based RL
+- **Reinforcement Learning:** world model, offline RL, model-based RL -->
 
 
 {% include_relative _includes/publications.md %}
 
 ## 💻 Internships
+
+- 2026.03 - Present, research intern at AntGroup for General Agent Scaling.
 
 - 2024.04 - 2024.08, research intern at OpenMMLab of [Shanghai Artificial Intelligence Lab](https://www.shlab.org.cn), advised by Dr. [Haodong Duan](https://kennymckormick.github.io/).
 
@@ -31,4 +31,4 @@ I have wide interest on AI, especially machine learning and deep learning. For n
 
 ## 💼 Services
 
-Reviewer for Conferences (NeurIPS, ICLR, ICML, ECAI) and Journals (TNNLS).
+Reviewer for Conferences (NeurIPS, ICLR, ICML) and Journals (TNNLS).
