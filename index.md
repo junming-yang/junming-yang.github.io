@@ -9,11 +9,8 @@ I am currently a second-year graduate student at [PALM](https://palm.seu.edu.cn/
 ## 💻 Internships
 
 - 2026.03 - Present, research intern at AntGroup for General Agent Scaling.
-
 - 2024.04 - 2024.08, research intern at OpenMMLab of [Shanghai Artificial Intelligence Lab](https://www.shlab.org.cn), advised by Dr. [Haodong Duan](https://kennymckormick.github.io/).
-
 - 2023.02 - 2024.01, research assistant at Shanghai Jiao Tong University, advised by Prof. [Yunbo Wang](https://wyb15.github.io/) for world model and RL.
-
 
 <!-- ## 📚 Research Interests
 I have wide interest on AI, especially machine learning and deep learning. For now, I'll focus on the following topics:
